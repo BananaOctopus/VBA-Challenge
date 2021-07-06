@@ -20,10 +20,10 @@ The refactory analysis did run the 2018 year data more quickly than running it t
 
 ![image](https://user-images.githubusercontent.com/84158312/124670719-66fe7900-de82-11eb-95b4-23b8337e782d.png)
 
-The code for the All Stocks Analysis results is below:
+###The code for the All Stocks Analysis results is below:
 
 ![AllStocksAnalysis Total](https://user-images.githubusercontent.com/84158312/124672213-a9c15080-de84-11eb-9786-b98070ae3b00.png)
 
-The code for the All Stocks Refactored Analysis is below:
+###The code for the All Stocks Refactored Analysis is below:
 
 ![Refactored Analysis All](https://user-images.githubusercontent.com/84158312/124672281-c52c5b80-de84-11eb-84b6-b9d3fac215d3.png)

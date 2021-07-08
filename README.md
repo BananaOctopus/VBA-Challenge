@@ -27,3 +27,13 @@ The refactory analysis did run the 2018 year data more quickly than running it t
 ### The code for the All Stocks Refactored Analysis is below:
 
 ![Refactored Analysis All](https://user-images.githubusercontent.com/84158312/124672281-c52c5b80-de84-11eb-84b6-b9d3fac215d3.png)
+
+## 3. Summary
+
+-	What are the advantages or disadvantages of refactoring code?
+
+Refactoring code is great for making a cleaner and more easily maintainable code. However, since it is making the code more streamline, sometimes this can cause it to break if the code is not exactly correct. Sometimes refactoring code can be time consuming.
+
+- How do these pros and cons apply to refactoring the original VBA script?
+
+The main difference between these coding subs is that the Refactored Analysis includes all the code for looping through and analyzing the data as well as formatting the resulting outcomes in one set of code. The All Stocks Analysis is just for looping through the data and finding the results without really formatting it.  
